@@ -9,3 +9,4 @@ spring:
     url: jdbc:mysql://106.14.185.196/sell?characterEncoding=utf-8&useSSL=false
   jpa:
     show-sql: true
+
