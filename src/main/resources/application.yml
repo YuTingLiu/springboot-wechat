@@ -1,2 +1,11 @@
 server:
   context-path: /api
+  port: 1080
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: liujunbin
+    password: love6591321
+    url: jdbc:mysql://106.14.185.196/sell?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
